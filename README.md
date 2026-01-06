@@ -1,12 +1,15 @@
-💼 About
-With over a decade of experience in business administration and project management, I currently serve as a PMO Analyst at VIRTUS – an institute dedicated to Research, Development, and Innovation in technology. I bridge academic excellence (Bachelor's in Business Administration  + MBA in Project Management) with hands-on experience leading and optimizing cross-functional projects.
+I work at the intersection of project governance and tech entrepreneurship.
 
-As a “project quality guardian,” I specialize in tracking key metrics, identifying risks and deviations, and implementing corrective actions to ensure project alignment with strategic goals. My work empowers senior leadership through actionable insights and decision-making dashboards, always driven by data and performance indicators.
+By day, I'm a Senior PMO Analyst at VIRTUS, one of Brazil's top R&D institutes, where I ensure governance and quality across complex software and hardware projects for Fortune 500 clients. Over 2+ years, I've built KPI frameworks, managed risks, and coached teams on Scrum/Kanban practices.
 
-I thrive at the intersection of project governance and technology. Currently pursuing a Bachelor’s in Information Technology, I’m also building technical fluency in Node.js, React.js, Python, C, MongoDB, and Express.js. I actively apply agile methodologies (Scrum, Kanban), streamline operations with tools like Trello, ClickUp, and QuickBooks, and support quality assurance across IT solutions.
+In parallel, I founded IMOBI ALL Holdings, a US company (Florida LLC) that connects American businesses with elite Brazilian engineering talent. We offer custom software development, AI/ML solutions, and R&D services, backed by 20+ years of institute track record and 2,000+ delivered projects, at 40-60% cost advantage.
 
-Previously, I led multidisciplinary construction projects as a Project Manager—overseeing planning, resource allocation, stakeholder coordination, and results delivery. From managing engineering teams to ensuring execution excellence, operational rigor is at the heart of my approach.
+What I bring: the discipline of enterprise PMO combined with the agility of a founder. I understand both sides, what clients need and how to deliver it.
 
-🔎 What drives me? Continuous improvement, process optimization, and the real impact technology brings to modern project delivery.
+Currently recruiting commission-based sales partners for IMOBI (15% on $50K-$500K deals).
 
-Outside work, I enjoy tennis, traveling, family life, and exploring how emerging tech is reshaping our world.
+→ imobiallholdings.com
+→ allan.sales@imobiallholdings.com
+
+Languages: Portuguese (native), English (professional), Spanish (conversational)I work at the intersection of project governance and tech entrepreneurship. By day, I'm a Senior PMO Analyst at VIRTUS, one of Brazil's top R&D institutes, where I ensure governance and quality across complex software and hardware projects for Fortune 500 clients. Over 2+ years, I've built KPI frameworks, managed risks, and coached teams on Scrum/Kanban practices. In parallel, I founded IMOBI ALL Holdings, a US company (Florida LLC) that connects American businesses with elite Brazilian engineering talent. We offer custom software development, AI/ML solutions, and R&D services, backed by 20+ years of institute track record and 2,000+ delivered projects, at 40-60% cost advantage. What I bring: the discipline of enterprise PMO combined with the agility of a founder. I understand both sides, what clients need and how to deliver it. Currently recruiting commission-based sales partners for IMOBI (15% on $50K-$500K deals). → imobiallholdings.com → allan.sales@imobiallholdings.com Languages: Portuguese (native), English (professional), Spanish (conversational)
+Top skills
